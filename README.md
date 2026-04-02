@@ -8,7 +8,7 @@ Building scalable systems, clean user experiences, and real-world software that 
 
 </div>
 
----
+
 
 ## 🧭 What I do
 
@@ -16,7 +16,7 @@ I design and build production-ready web applications from end to end.
 
 My focus is not just code — but systems that scale, perform, and feel good to use.
 
----
+
 
 ## 🏗️ Core expertise
 
@@ -26,7 +26,7 @@ My focus is not just code — but systems that scale, perform, and feel good to 
 - Payment integrations (Paystack, Pesapal)
 - Deploying production systems (Docker, Nginx, CI/CD)
 
----
+
 
 ## ⚙️ Current focus
 
@@ -35,7 +35,7 @@ My focus is not just code — but systems that scale, perform, and feel good to 
 - System design fundamentals
 - Scalable backend patterns
 
----
+
 
 ## 🚧 Projects
 
@@ -57,7 +57,7 @@ A flexible auth system with:
 - GitHub Actions CI/CD
 - Reverse proxy deployment (Nginx)
 
----
+
 
 ## 📊 GitHub snapshot
 
@@ -65,7 +65,7 @@ A flexible auth system with:
   <img src="https://github-readme-stats.vercel.app/api?username=mbuguaMaina&show_icons=true&hide_border=true&theme=transparent" />
 </p>
 
----
+
 
 ## 🤝 Let’s build something
 
