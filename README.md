@@ -1,84 +1,80 @@
-# Hi, I’m Martin Maina
 
-A self-taught software engineer building scalable web systems, clean interfaces, and production-ready applications.
+<!-- HERO SECTION -->
+<div align="center">
 
-I focus on turning ideas into real, working software.
+# Martin Maina
 
----
+### Full-Stack Software Engineer
 
-## Tech stack
+Building scalable systems, clean user experiences, and real-world software that solves real problems.
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+</div>
 
 ---
 
-## Currently
+## 🧭 What I do
 
-- 🔭 Building production-grade eCommerce and authentication systems  
-- 🌱 Learning AWS, system design, and distributed architectures  
-- ⚙️ Improving CI/CD workflows with GitHub Actions and Docker  
-- 🧠 Exploring scalable backend design patterns  
+I design and build production-ready web applications from end to end.
 
----
-
-## GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbuguaMaina&show_icons=true&hide_border=true&theme=transparent" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbuguaMaina&layout=compact&hide_border=true&theme=transparent" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbuguaMaina&hide_border=true&theme=transparent" />
-</p>
+My focus is not just code — but systems that scale, perform, and feel good to use.
 
 ---
 
-## Projects
+## 🏗️ Core expertise
 
-### eCommerce Platform
-A full-stack system for selling physical products with:
-- Role-based authentication
-- Payments integration
+- Building full-stack web applications (Next.js + Node.js)
+- Designing authentication systems (Auth.js, JWT, OAuth)
+- Backend architecture & REST APIs
+- Payment integrations (Paystack, Pesapal)
+- Deploying production systems (Docker, Nginx, CI/CD)
+
+---
+
+## ⚙️ Current focus
+
+- Cloud infrastructure (AWS)
+- Microservices architecture
+- System design fundamentals
+- Scalable backend patterns
+
+---
+
+## 🚧 Projects
+
+### eCommerce System
+A production-grade platform for physical goods with:
+- Role-based access control
+- Payment integrations
 - Admin dashboard
-- Order tracking
+- Order lifecycle management
 
-### Authentication System
-Modern auth flow with:
-- Social login
-- JWT-based sessions
-- Custom onboarding flow
+### Authentication Platform
+A flexible auth system with:
+- Social + email login
+- Secure session handling
+- Custom onboarding flows
 
-### DevOps Setup
-- GitHub Actions CI/CD pipelines
-- Nginx reverse proxy deployment
+### DevOps Pipeline
+- Docker-based services
+- GitHub Actions CI/CD
+- Reverse proxy deployment (Nginx)
 
 ---
 
-## Connect
+## 📊 GitHub snapshot
 
-<p>
-  <a href="https://github.com/mbuguaMaina">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://martinmaina.xyz">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mbuguaMaina&show_icons=true&hide_border=true&theme=transparent" />
 </p>
 
 ---
 
-## Philosophy
+## 🤝 Let’s build something
 
-> Build systems that solve real problems, not just demos.
+If you're working on scalable systems, SaaS platforms, or serious web products — I’m always open to collaboration.
 
 ---
+
+## 🧠 Philosophy
+
+> Simplicity scales. Complexity breaks.
