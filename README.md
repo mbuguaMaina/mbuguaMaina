@@ -59,7 +59,6 @@ Modern auth flow with:
 - Custom onboarding flow
 
 ### DevOps Setup
-- Dockerized services
 - GitHub Actions CI/CD pipelines
 - Nginx reverse proxy deployment
 
