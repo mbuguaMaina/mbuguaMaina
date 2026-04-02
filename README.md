@@ -2,9 +2,7 @@
 <!-- HERO SECTION -->
 <div align="center">
 
-# Martin Maina
-
-### Full-Stack Software Engineer
+<img src="https://github.com/mbuguaMaina/mbuguaMaina/blob/main/svgviewer-png-output.png" />
 
 Building scalable systems, clean user experiences, and real-world software that solves real problems.
 
